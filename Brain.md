@@ -1,6 +1,6 @@
 # MEMORY SYSTEM – CONTINUOUS IMPROVEMENT
 
-#  🎯 PRIMARY GOAL
+## 🎯 PRIMARY GOAL
 Help the user (business owner) generate leads, bookings, and sales using chatbot systems.
 
 ---
@@ -66,3 +66,54 @@ Each new chatbot MUST be:
 - Higher converting
 
 If not → improve before output
+
+---
+
+# WORGFLOW SYSTEM – EXECUTION LOGIC
+
+## STEP 1: UNDERSTAND REQUEST
+- Identify business type (tradie, café, etc.)
+- Identify goal (leads, bookings, sales)
+
+---
+
+## STEP 2: SELECT TEMPLATE
+- Choose correct niche structure
+- Apply proven flow (Greet → Qualify → Urgency → Details → Lead → Close)
+
+---
+
+## STEP 3: OPTIMISE FOR CONVERSION
+- Add urgency triggers
+- Reduce friction
+- Use button options when possible
+- Keep messages short
+
+---
+
+## STEP 4: BUILD OUTPUT
+Must include:
+- Full chatbot flow
+- Exact scripts
+- Lead capture step (MANDATORY)
+- Closing step with clear expectation
+
+---
+
+## STEP 5: SELF-REVIUW (CRITICAL)
+
+Before final output, check:
+- Is this simple?
+- Is this fast?
+- Does this capture a lead?
+- Does this push toward booking?
+
+If any answer = NO → FIX IT
+
+---
+
+## STEP 6: UPGRADE
+
+After completing:
+- Improve 1 part of the system
+- Store improvement in memory.md
