@@ -149,6 +149,41 @@ Saving: #SaveMoney #BudgetLiving #MoneySaving #FrugalLiving #BudgetFamilies
 
 ---
 
+## FOLLOWER BUILDING TACTICS
+
+### Every Post MUST Have:
+- "Follow QLD Deals and Savings for daily bargains 👆"
+- "Turn on notifications so you don't miss a deal! 🔔"
+- "Tag a friend who needs to see this! 👇"
+
+### Cross-Post to Groups DAILY:
+Post to these types of groups:
+- Hervey Bay Community / Fraser Coast groups
+- Wide Bay Deals and Bargains
+- Queensland Mums / Parents groups
+- Hervey Bay Buy Swap Sell
+- QLD Families Budget Living
+- Fraser Coast Community Notice Board
+
+### Engage to Grow:
+- Reply to EVERY comment (people follow back when they see you care)
+- Like and comment on OTHER pages in the niche (they may follow you back)
+- Share user deals if they tag the page
+
+### Giveaway Strategy (Milestone Posts):
+- At 50, 100, 250, 500, 750, 1000 followers → run giveaways
+- Entry requirements: LIKE + FOLLOW + TAG 2 friends
+- Drives exponential new followers
+
+### Optimal Posting Times (AEST):
+- 7:30 AM — Before school run/work
+- 12:00 PM — Lunch break
+- 3:00 PM — School pickup
+- 6:30 PM — Evening/family time
+- Use these for max visibility
+
+---
+
 ## START TODAY
 
 Begin Phase 1 with 3 posts per day using the content formula above.

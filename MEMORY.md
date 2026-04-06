@@ -125,3 +125,9 @@ See full plan in: `/root/.openclaw/workspace/facebook-growth-plan.md`
 - Reply to ALL comments within 1 hour
 - Cross-post to Facebook groups daily
 - Build local community (Hervey Bay focus)
+
+**FOLLOWER GROWTH STRATEGY:**
+- Every post: "Follow QLD Deals and Savings" + "Turn on notifications" + "Tag a friend"
+- Cross-post to 3+ Facebook groups daily (Hervey Bay, Wide Bay, QLD parents groups)
+- Reply to every comment (people follow back)
+- Giveaway at milestones (50, 100, 250, 500, 750, 1000 followers)
