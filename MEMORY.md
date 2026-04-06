@@ -58,7 +58,7 @@ All systems saved to GitHub:
 
 **Page ID:** 1107085552479301
 **Page Name:** QLD Deals and Savings
-**Token:** (User provides Page Access Token when needed)
+**Token:** EAA9Vn1B0fQEBRDezLf4qmZBSOlKgYWyNu41tQOyjbF3iCTJW77HApCjiLeuboTFe9xCZAmF5wWVWJK9zjy8adAzQe4gXg4nsVBoU7u3G84vaJ3oAewfdBG2irzMnHIj3hTq3f9oRDRzG0G2pUcbCrWvgKBogskRhq7eCdXULT3IcQ0KaqNh9HXR2mmU2rcHdPhZAhPQ (Working! Use this one)
 
 **How it works:**
 1. Search live deals daily
