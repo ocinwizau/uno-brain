@@ -73,6 +73,24 @@ All systems saved to GitHub:
 
 **Token expired?** Ask user for new Page Access Token
 
+---
+
+## 🔧 WORKING POSTING FORMAT (FINALLY!)
+
+**Key discovery:** Posts with IMAGES attached don't get flagged as ads!
+- Use `/photos` endpoint with image URL
+- Put content + hashtags in the main post
+- User adds comments manually
+
+**Format:**
+1. Post image via API (with caption)
+2. User manually adds comments (Follow CTA + hashtags)
+
+**What's working:**
+- ✅ Posts with images (no "Create Ad" issue)
+- ✅ Content + hashtags in main post
+- ⚠️ Comments need to be added manually by user
+
 **IMPORTANT:** Never share tokens publicly. Delete after use if accidentally exposed.
 
 ---
